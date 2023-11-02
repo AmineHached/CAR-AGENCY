@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648946531 source:c:\users\louay\desktop\projetc_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1650550472 source:c:\users\bns\desktop\projetc_final2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
